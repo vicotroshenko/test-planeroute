@@ -57,7 +57,7 @@ function App() {
   }, []);
 
   useEffect(() => {
-    const SCALE = 25;
+    const SCALE = 36;
     const DIRECTIONS = {
       90: 90,
       180: 180,
