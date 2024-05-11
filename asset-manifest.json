@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-planeroute/static/css/main.41a18bc6.css",
+    "main.js": "/test-planeroute/static/js/main.23d870bd.js",
+    "static/media/planet-imagery-hero.jpg": "/test-planeroute/static/media/planet-imagery-hero.177eb85b98b1a1e5414f.jpg",
+    "index.html": "/test-planeroute/index.html",
+    "main.41a18bc6.css.map": "/test-planeroute/static/css/main.41a18bc6.css.map",
+    "main.23d870bd.js.map": "/test-planeroute/static/js/main.23d870bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41a18bc6.css",
+    "static/js/main.23d870bd.js"
+  ]
+}
